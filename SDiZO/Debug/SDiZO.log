@@ -1,0 +1,15 @@
+﻿  Array.cpp
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\array.cpp(1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Heap.cpp
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\heap.cpp(12): warning C4309: "=": obcięcie stałej wartości
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\heap.cpp(13): warning C4309: "=": obcięcie stałej wartości
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\heap.cpp(14): warning C4309: "=": obcięcie stałej wartości
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\heap.cpp(31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\heap.cpp(77): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\heap.cpp(92): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\heap.cpp(94): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\heap.cpp(118): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\heap.cpp(162): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\heap.cpp(174): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  SDiZO.vcxproj -> C:\Users\asus\Documents\Visual Studio 2017\Projects\SDiZO\Debug\SDiZO.exe

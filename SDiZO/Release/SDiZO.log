@@ -1,0 +1,9 @@
+﻿  Array.cpp
+c:\users\asus\documents\visual studio 2017\projects\sdizo\sdizo\array.cpp(1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Test.cpp
+  Trwa generowanie kodu
+  0 of 226 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  SDiZO.vcxproj -> C:\Users\asus\Documents\Visual Studio 2017\Projects\SDiZO\Release\SDiZO.exe
